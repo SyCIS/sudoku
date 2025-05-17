@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "933373330558",
+    "project_id": "sudoku-541e7",
+    "storage_bucket": "sudoku-541e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933373330558:android:855fab5effea16d284442f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzpsQgrlBsD_beeYKSfDGCHEWbwBHtCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933373330558:android:027c40fd330d11e184442f",
+        "android_client_info": {
+          "package_name": "com.sycis."
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzpsQgrlBsD_beeYKSfDGCHEWbwBHtCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933373330558:android:409e3d371a373d2984442f",
+        "android_client_info": {
+          "package_name": "com.sycis.sudoku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzpsQgrlBsD_beeYKSfDGCHEWbwBHtCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
